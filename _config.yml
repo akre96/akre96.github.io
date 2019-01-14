@@ -28,6 +28,19 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false 
+      comments: false
+      share: false
+      related: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

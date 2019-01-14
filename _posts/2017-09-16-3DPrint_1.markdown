@@ -1,0 +1,61 @@
+---
+title:  "So I Impulse Bought a 3D Printer..."
+date:   2017-09-16
+categories: Project
+number: 3
+excerpt_separator: <!--more-->
+---
+![MPSM](/assets/images/3dPrint/MSMv2.jpg)
+
+About a week ago I was feeling overwhelmed by my minimum wage paycheck and impulse bought a 3D printer. Specifically [this one](https://www.amazon.com/Monoprice-Select-Printer-Heated-Filament/dp/B01FL49VZE), the Monoprice Select Mini for ~$220.
+At first I didn't really know what I was going to do with it but after browsing thingiverse for too many hours found no shortage of things I wanted to print. Recently I've 3D modeled my own items and that has been the most satisfying thing. Drawing something in and having it become real is one of my new favorite things.
+
+The concept is still kind of wild that you can make almost anything that gets its value from its shape and this printer is pretty cheap. With filament (PLA) being ~$20 per kg it is only a few cents of material per print. 
+
+That being said my [thingiverse account](https://www.thingiverse.com/sakre/about) is definitely going to be active.
+<!--more-->
+
+
+## First impressions
+
+When I first unboxed the printer it was fankly not that easy to use. This printer is supposed to be one of the easier ones, and honestly when everything works correctly it is simple. The problem is there are so many things that can go wrong with 3D printing. Out of the box the heated bed on my printer wouldn't heat and there was a loose screw at the filament feeding motor that was causing it to slip not consistently feeding filament causing failed prints. I was able to fix the filament feeder but had to replace the first printed due to the faulty heated bed. 
+
+I began by printing things that other people had made on thingyverse with some pretty decent success. Took me a few trials to reach the ideal settings for my prints (180C hotend and 60C bed). As someone thats impatient it sucks how long it takes for mistakes to manifest with 3D printers. With my particular printer transfering files over wifi took almost 10 minutes, transfering via microSD card didn't work for some reason, and printing via USB required I keep my laptop connected at all times.
+
+## OctoPi
+After a few days I decided it was time to setup OctoPrint on my raspberry pi (OctoPi). An Octopi effectively broadcasts a site locally allowing you to send prints quickly to the Pi and have the pi control the printer so you don't have to give up your laptop. This setup also took me a while to get working but was very much worth it. With OctoPrint I've had much fewer print failures overall. I also love the UI.
+![OctoPi](/assets/images/3dPrint/OctoPi.png)
+
+With OctoPrint fully functional I felt confident that if something goes wrong with a print I'd know how to isolate the issue and determine if it was a problem with the design or the printer.
+
+## My First 3D Models and The Creation of Foodle
+
+In the last two days I finally came to making custom items that I personally needed. 
+
+The first item on the list of things i wanted to make was a thing to let me know if my cat Noodle has been fed a certain meal hence the name Foodle. With 4 people caring for this cat its hard to know if he's been fed a meal and this often results in over feeding our chunky little guy. 
+![noodle](/assets/images/3dPrint/noodz.jpg)
+
+I made the designs using Fusion 360. For the first version I didn't think about the fact that parts which go inside other parts have to be mildly smaller than the hole they fit in to. Because of this nothing snapped together like it was supposed to so I had to super glue pieces together, but in the end it worked!
+Here is the first version of Foodle:
+![foodle-v1](/assets/images/3dPrint/Foodle-v1.JPG)
+
+After realizing how small Foodle v1 was and how the pieces didn't exactly fit together I went back to Fusion 360 and made a large Foodle leaving .5mm spaces for things to fit together.
+Here is the improved foodle v2!
+![foodle-v2](/assets/images/3dPrint/Foodle.JPG)
+
+I also added holes to allow Foodle to be hung!
+
+From there I noticed that I needed a better way to hang my ukulele than just laying it on my window sill, so I measured my uke and made a little thing to hang it from the wall using pushpins.
+![uke1](/assets/images/3dPrint/UkeHold-1.JPG) ![uke2](/assets/images/3dPrint/UkeHold-2.JPG)
+
+
+## Last Thoughts
+
+This whole thinking of something and making it business is really cool. I have definitely found a new hobby.
+
+
+---
+Sincerely,
+
+Samir
+
