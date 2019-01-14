@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Cartoon Samir](assets/images/CartoonLogoSamir.png)
