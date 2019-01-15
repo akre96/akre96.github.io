@@ -1,0 +1,11 @@
+Samir Akre:
+  name        : "Samir Akre"
+  bio         : "Coffee & Biomedical Science"
+  avatar      : "/assets/images/CartoonLogoSamir.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:samir.akre@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://samirakre.com"

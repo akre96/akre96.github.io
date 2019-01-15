@@ -4,6 +4,7 @@ date:   2017-05-25
 categories: Project
 number: 2
 excerpt_separator: <!--more-->
+author: Samir Akre
 ---
 Over the last week or two I have been building a small web app to help create genome figures for use in scientific papers. All it really does is draw arrows and stuff with labels using SVG, but is a lot more accurate in terms of scaling than the normal method which is using powerpoint. You can either manually put in each gene and length to map, or just upload a genbank file and have it create the figure automatically. 
 

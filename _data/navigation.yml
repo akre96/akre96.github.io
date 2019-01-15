@@ -1,0 +1,5 @@
+main:
+  - title: "Now"
+    url: /now/
+  - title: "Posts"
+    url: /posts/

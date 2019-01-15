@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Samir Akre
 ---
 
 ![Cartoon Samir](assets/images/CartoonLogoSamir.png)

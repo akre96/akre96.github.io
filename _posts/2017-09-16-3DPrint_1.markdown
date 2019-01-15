@@ -4,6 +4,7 @@ date:   2017-09-16
 categories: Project
 number: 3
 excerpt_separator: <!--more-->
+author: Samir Akre
 ---
 ![MPSM](/assets/images/3dPrint/MSMv2.jpg)
 
