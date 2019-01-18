@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Posts"
-permalink: /posts/
+title: "Blog"
+permalink: /blog/
 ---
 
 {% for post in site.posts limit: 5 %}
