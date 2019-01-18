@@ -4,6 +4,7 @@
 
 layout: splash
 author: Samir Akre
+title: Samir Akre
 excerpt: Coffee and Biomedicine
 header:
   overlay_image: /assets/images/VeniceAtNight.jpg
