@@ -4,11 +4,11 @@
 
 layout: splash
 author: Samir Akre
-title: Samir Akre
-excerpt: Coffee and Biomedicine
+title: Coffee and Biomedicine
+excerpt: Personal Blog and Website
 header:
-  overlay_image: /assets/images/VeniceAtNight.jpg
-  overlay_filter: .3
+  overlay_image: /assets/images/coffee.jpg
+  overlay_filter: 0.2
 
 ---
 
@@ -16,7 +16,7 @@ header:
 - Graduated UC Davis June 2018 with a B.S. in Biomedical Engineering
 - **Skills:** Bioinformatics, Website Development, 3D Modeling/printing, Cell Culture/Wet Lab Assays, PCB & Wearable Device Design, Biomechanics
 - **Functional skills:** Graphic design,  UI/UX Layouts, 
-- **Hobbies**: Coffee, Reading, Guitar, Super Smash Brothers Ultimate, Anime
+- **Hobbies**: Coffee, Reading, Guitar, Gaming, Anime
 
 [Resume](/assets/Samir_Akre_Resume_011618.pdf)
 
