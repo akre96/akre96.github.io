@@ -5,12 +5,14 @@ categories: Project
 number: 2
 excerpt_separator: <!--more-->
 author: Samir Akre
+header:
+  teaser: /assets/images/exampleGF.png
 ---
 Over the last week or two I have been building a small web app to help create genome figures for use in scientific papers. All it really does is draw arrows and stuff with labels using SVG, but is a lot more accurate in terms of scaling than the normal method which is using powerpoint. You can either manually put in each gene and length to map, or just upload a genbank file and have it create the figure automatically. 
 
 **The application is built on Angular 2 and hosted [here](http://genediagramdraw-org.stackstaging.com) temporarily.**
 
-The source code is on my [**Github**](https://github.com/akre96/GeneDiagrams).
+The source code is on my [Github](https://github.com/akre96/GeneDiagrams).
 <!--more-->
 
 I curerntly work at the Mills lab part time, It is a microbiology lab focused on milk and infant gut microbiome studies at UC Davis. One of the graduate students in the lab brought up the issue that there are no tools to create high resolution gene figures even though they are used widely throughout the field of microbiology and many other fields. So as the part time employee/intern I was tasked with creating it, and for the most part I think it turned out pretty good. 

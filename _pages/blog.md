@@ -1,9 +1,7 @@
 ---
-layout: archive
+layout: posts
 title: "Blog"
 permalink: /blog/
+author: Samir Akre
+author_profile: true
 ---
-
-{% for post in site.posts limit: 5 %}
-  [{{ post.title }}]({{post.url}})
-{% endfor %}

@@ -5,6 +5,7 @@ categories: Instruction
 number: 1
 excerpt_separator: <!--more-->
 author: Samir Akre
+main_image: /assets/images/jouleInst/jouleImg.png
 ---
 I spent a stupidly long time trying to get my Joule set up for the first time using primarily Intel's documentation, so I've decided to write a post detailing how exactly to do it on a Mac. I'm currently running macOS Sierra 10.12.4 on a Macbook Pro 15inch late 2016 model. 
 

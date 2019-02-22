@@ -52,8 +52,8 @@ $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
-$light-brown: #C59C6C;
 $dark-brown: #42210B;
+$light-brown: lighten($dark-brown, 10);
 $green: #39B54A;
 $dark-green: mix(#000, $green, 60%);
 
