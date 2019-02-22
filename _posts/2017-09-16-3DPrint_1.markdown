@@ -5,7 +5,8 @@ categories: Project
 number: 3
 excerpt_separator: <!--more-->
 author: Samir Akre
-main_image: /assets/images/3dPrint/MSMv2.jpg
+header:
+  teaser: /assets/images/3dPrint/MSMv2.jpg
 ---
 ![MPSM](/assets/images/3dPrint/MSMv2.jpg)
 
