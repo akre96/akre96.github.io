@@ -10,6 +10,10 @@ I left my job at Stanford to start working as a research programmer in Dr. Rong 
 
 I'm excited to begin working on developing software for analysis of this lab's unique data set that tracks hematopoietic stem cells at the single cell level!
 
+## Future Plans:
+### Grad Schools
+Still waiting on final decisions but am very likely to attend a Ph.D. program somewhere in the LA area starting Fall 2019. 
+
 __As of February 2019__
 ## Work: 
 ### Stanford University School of Medicine
