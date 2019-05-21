@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.2
   og_image: /assets/images/CoffeeS_Icon.png
 feature_row:
-  - image_path: assets/images/davisSign.jpg
+  - image_path: assets/images/davisSign_small.jpg
     alt: "UC Davis Graduation Image"
     title: "About Me"
     url: "/#summary"
@@ -25,7 +25,7 @@ feature_row:
     url: "/publications"
     btn_label: "View Publications"
     btn_class: "btn--primary"
-  - image_path: assets/images/blog.jpg
+  - image_path: assets/images/blog_small.jpg
     image_caption: "Photo by [Dariusz Sankowski](https://unsplash.com/photos/3OiYMgDKJ6k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/blog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
     alt: "Photo by Dariusz Sankowski on Unsplash"
     title: "Blog"

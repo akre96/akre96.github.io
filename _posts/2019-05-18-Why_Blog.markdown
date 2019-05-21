@@ -1,0 +1,24 @@
+---
+title:  "Why I Have A Blog"
+date:   2019-05-18
+categories: Journal
+number: 4
+excerpt_separator: <!--more-->
+author: Samir Akre
+header:
+  teaser: /assets/images/WhyBlog/notebook.jpg
+---
+I am now a terrible writer. I intentionally misspell words, use the wrong form of there/their/they’re, and have proved that my high AP English test score meant literally nothing. Pursuing an undergraduate degree in Engineering did not prepare me to write eloquently. I want to practice and change that.
+<!--more-->
+
+![Notebook](/assets/images/WhyBlog/notebook.jpg)
+
+It has also been over a year since I have written anything for my blog and I need to validate having one. The goal of this blog is not a particular professional aim, but rather to be a personal reminder that I need to remember and practice writing. I plan to use this area of the internet for high effort content that forces myself to think about the things I’m doing more. Enough so that I can explain something I’ve done or thought about to a broader audience.
+
+I plan to post one thing a month. So hopefully unlike 2018 there will be greater than zero posts after this one in 2019. A lot has changed in the last six months that I’d like to write about, and believe I have a unique take on. Most notably I changed jobs twice, moved cities, got diagnosed with sleep apnea, and will be starting a PhD Program at UCLA in the Fall. Hopefully all these potential writing topics will materialize in to content someone finds useful. 
+
+---
+Sincerely,
+
+Samir
+
