@@ -7,7 +7,7 @@ author: Samir Akre
 title: Coffee and Biomedicine
 author_profile: true
 header:
-  overlay_image: /assets/images/coffee.jpg
+  overlay_image: /assets/images/coffee_small.jpg
   overlay_filter: 0.2
   og_image: /assets/images/CoffeeS_Icon.png
 feature_row:
