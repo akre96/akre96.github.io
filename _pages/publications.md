@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 ## Publications
 
+__Oxylipins in triglyceride-rich lipoproteins of dyslipidemic subjects promote endothelial inflammation following a high fat meal__  
+_Anita Rajamani, Kamil Borkowski, Samir Akre, Andrea Fernandez, John W. Newman, Scott I. Simon, Anthony G. Passerini, Scientific Reports, vol. 9, no. 1, p. 8655, 2019/06/17 2019._  
+[View Publication](https://www.nature.com/articles/s41598-019-45005-5){:target="_blank"}  
+
 __Bifidobacterial Dominance of the Gut in Early Life and Acquisition of Antimicrobial Resistance__  
 _Diana H. Taft, Jinxin Liu, Maria X. Maldonado-Gomez, Samir Akre, M. Nazmul Huda, S. M. Ahmad, Charles B. Stephensen, David A. Mills mSphere Sep 2018, 3 (5) e00441-18; DOI: 10.1128/mSphere.00441-18_  
 [View Publication](https://msphere.asm.org/content/3/5/e00441-18){:target="_blank"}
