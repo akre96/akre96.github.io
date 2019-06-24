@@ -3,6 +3,21 @@ layout: splash
 title: "What I'm Up To Now "
 permalink: /now/
 ---
+## As of June 2019
+### Work:
+__USC Keck School of Medicine__  
+
+I have been working at the Rong Lu Lab for about 3 months now. I spend most of my days making graphs about hematopoeitic stem cell clonal tracking and aging. We are in the early stages of assembling a manuscript on that work, and I'll be transitioning to a new project on Acute Lymphoblastic Leukemia (ALL). 
+
+### Future Plans:
+__Grad Schools__  
+I will be starting the Ph.D program in Bioinformatics at UCLA Fall 2019!
+
+__Entrepreneurship__  
+My goal in beginning a Ph.D program was to understand bioinformatics and its applications in translational medicine enough to start a company in the field. I will be actively looking for the resources and mentors at UCLA and elsewhere to help ensure I am on the right track.
+
+Please feel free to reach out if you have any information or advice.
+
 ## As of March 2019
 ### Work:
 __USC Keck School of Medicine__  

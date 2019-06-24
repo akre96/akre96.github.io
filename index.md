@@ -37,12 +37,12 @@ feature_row:
 
 {% include feature_row %}
 
-## Summary of Myself
+## Summary
 {: id="summary"}
 - Graduated UC Davis June 2018 with a B.S. in Biomedical Engineering
 - **Skills:** Bioinformatics, Website Development, 3D Modeling/printing, Microcontroller Programming, Cell Culture/Wet Lab Assays, PCB & Wearable Device Design, Biomechanics
 - **Functional skills:** Graphic design,  UI/UX Layouts, 
-- **Hobbies**: Coffee, Reading, Guitar, Gaming, Anime
+- **Hobbies**: Coffee, Reading, Guitar, Anime
 
 The PDF of my full resume is linked below:  
 [Resume](/assets/Samir_Akre_Resume_011618.pdf)
