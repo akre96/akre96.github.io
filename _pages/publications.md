@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 ## Publications
 
+__Resident microbes of lactation rooms and daycares__  
+_Diana H. Taft, Samir Akre, Nicolas Madrid, Andre Knoesen, David A. Mills, Zachery T. Lewis​. 2019. PeerJ 7:e8168 https://doi.org/10.7717/peerj.8168_  
+[View Publication](https://peerj.com/articles/8168/){:target="_blank"}  
+
+
 __Oxylipins in triglyceride-rich lipoproteins of dyslipidemic subjects promote endothelial inflammation following a high fat meal__  
 _Anita Rajamani, Kamil Borkowski, Samir Akre, Andrea Fernandez, John W. Newman, Scott I. Simon, Anthony G. Passerini, Scientific Reports, vol. 9, no. 1, p. 8655, 2019/06/17 2019._  
 [View Publication](https://www.nature.com/articles/s41598-019-45005-5){:target="_blank"}  

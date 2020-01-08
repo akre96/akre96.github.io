@@ -3,6 +3,24 @@ layout: splash
 title: "What I'm Up To Now "
 permalink: /now/
 ---
+## As of January 2020
+### Graduate School:
+__Medical Informatics Ph.D. Program at UCLA__  
+
+I am beginning my second quarter at UCLA. My winter quarter rotation will be working on the link between migraines and depression through the [UCLA Depression Grand Challenge](https://grandchallenges.ucla.edu/depression/){:targe="_blank"} under [Dr. Alex Bui](https://www.mii.ucla.edu/people/buia/){:target="_blank"}. My first rotation was under [Dr. Peipei Ping](https://cvdatascience.dgsom.ucla.edu/pages/){:target="_blank"} working on cardiovascular data science. 
+
+### Work:
+__USC Keck School of Medicine__  
+I currently work part time as a resource employee for the [Rong Lu Lab](https://ronglulab.usc.edu/){:target="_blank"}. A project studying acute lymphoblastic leukemia (ALL) has just had a manuscript submitted, and a second prject related to hematopoietic stem cell aging is being wrapped up.
+
+### Future Plans:
+
+__Entrepreneurship__  
+My goal in beginning a Ph.D program was to understand bioinformatics and its applications in translational medicine enough to start a company in the field. I will be actively looking for the resources and mentors at UCLA and elsewhere to help ensure I am on the right track.
+
+Please feel free to reach out if you have any information or advice.
+
+
 ## As of June 2019
 ### Work:
 __USC Keck School of Medicine__  
@@ -12,11 +30,6 @@ I have been working at the Rong Lu Lab for about 3 months now. I spend most of m
 ### Future Plans:
 __Grad Schools__  
 I will be starting the Ph.D program in Bioinformatics at UCLA Fall 2019!
-
-__Entrepreneurship__  
-My goal in beginning a Ph.D program was to understand bioinformatics and its applications in translational medicine enough to start a company in the field. I will be actively looking for the resources and mentors at UCLA and elsewhere to help ensure I am on the right track.
-
-Please feel free to reach out if you have any information or advice.
 
 ## As of March 2019
 ### Work:
