@@ -20,7 +20,7 @@ _Diana H. Taft, Jinxin Liu, Maria X. Maldonado-Gomez, Samir Akre, M. Nazmul Huda
 
 ## Patents
 
-__System and method for personalized exercise training and coaching__
+__System and method for personalized exercise training and coaching__  
 _Inventors: Andrew Robert Chang, Chung-Che Charles Wang, Daniel Le Ly, Ray Franklin Cowan, Rebecca Shultz, Samir Akre_  
 [View Patent Application](https://patents.google.com/patent/US20180133551A1){:target="_blank"}  
 
