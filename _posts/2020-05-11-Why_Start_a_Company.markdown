@@ -6,7 +6,7 @@ number: 7
 excerpt_separator: <!--more-->
 author: Samir Akre
 header:
-  teaser: /assets/images/SamirCorp.png
+  teaser: /assets/images/blog_images/SamirCorp.png
 ---
 The purpose of this post is to force myself to reflect on my life decisions, have a record of my decision process as a young adult on the internet forever, and help someone.
 
@@ -14,7 +14,7 @@ I tell myself and the world that I will start a company. But why? How does that 
 
 <!--more-->
 
-![Company Drawing](/assets/images/SamirCorp.png)
+![Company Drawing](/assets/images/blog_images/SamirCorp.png)
 
 I have chosen that I want to start a company in the biomedical space because it links my need for external validation with a cause that my family, friends, and peers will respect. Vanity is the only force that consistently pushes me to act in ways that impress those around me. Luckily those around me are high-quality individuals.
 

@@ -39,9 +39,8 @@ feature_row:
 
 ## Summary
 {: id="summary"}
-- Graduated UC Davis June 2018 with a B.S. in Biomedical Engineering
-- **Skills:** Bioinformatics, Website Development, 3D Modeling/printing, Microcontroller Programming, Cell Culture/Wet Lab Assays, PCB & Wearable Device Design, Biomechanics
-- **Functional skills:** Graphic design,  UI/UX Layouts, 
+- **PhD Program**: Medical Informatics PhD Student at UCLA mentored by Dr. Alex Bui. Started Fall of 2019
+- **Degree**: Graduated from UC Davis June 2018 with a B.S. in Biomedical Engineering
 - **Hobbies**: Coffee, Reading, Guitar, Anime
 
 The PDF of my full resume is linked below:  
