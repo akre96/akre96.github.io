@@ -45,8 +45,8 @@ I've been meditating for a couple years now, and for most of it followed a mantr
 I've played the guitar since I was in middle school, but never felt good. I'm still not good, I don't know how to "jam" with other players, don't know music theory. But at least I can solo in a minor pentatonic pretty well. I've started to learn more theory and fundamentals and am really enjoying it. Videos from [Ben Eller](https://www.youtube.com/user/BenEllerGuitars){:target="_blank"} have been very useful. 
 
 #### Fitness
-My roommate from the Freshman year dorms, Will Han, has been coaching me for the last month to help me get swole.
+My roommate from the Freshman year dorms, Will Han, has been coaching me for the last 6 months to help me get swole.
 He's helped me a ton with understanding the right way to eat, how to look at my fitness goals, and how to workout. Lack of a full gym and rack limits my ability to get absolutely huge, but I've made real progress for the first time in my life. 
 
-I spend the first 6 months gaining weight, which was a mental hurdle for me as I've spent the last decade trying to only lose weight and avoid succumbing to my family history of diabetes. I gained 15lbs and feel really good about it, now I am beginning to cut weight. This is definitely the most physically fit I've ever felt.
+I spent the first 6 months gaining weight, which was a mental hurdle for me as I've spent the last decade trying to only lose weight and avoid succumbing to my family history of diabetes. I gained 15lbs and feel really good about it, now I am beginning to cut weight. This is definitely the most physically fit I've ever felt.
 
