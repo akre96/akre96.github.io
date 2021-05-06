@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 ## Publications
 
+__COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January‒July 2020__  
+_Joseph Friedman and Samir Akre. 2021. American Journal of Public Health 0, e1_e8, https://doi.org/10.2105/AJPH.2021.306256_
+[View Publication](https://ajph.aphapublications.org/doi/10.2105/AJPH.2021.306256){:target="_blank"}  
+
 __Resident microbes of lactation rooms and daycares__  
 _Diana H. Taft, Samir Akre, Nicolas Madrid, Andre Knoesen, David A. Mills, Zachery T. Lewis​. 2019. PeerJ 7:e8168 https://doi.org/10.7717/peerj.8168_  
 [View Publication](https://peerj.com/articles/8168/){:target="_blank"}  
