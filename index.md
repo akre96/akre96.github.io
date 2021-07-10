@@ -41,7 +41,7 @@ feature_row:
 {: id="summary"}
 - **PhD Program**: Medical Informatics PhD Student at UCLA mentored by Dr. Alex Bui. Started Fall of 2019
 - **Degree**: Graduated from UC Davis June 2018 with a B.S. in Biomedical Engineering
-- **Hobbies**: Coffee, Reading, Guitar, Anime
+- **Hobbies**: Coffee, Reading, Guitar, Anime, Surfing
 
 The PDF of my full resume is linked below:  
 [Resume](/assets/Samir_Akre_Resume_011618.pdf)
