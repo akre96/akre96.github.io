@@ -40,6 +40,7 @@ feature_row:
 ## Summary
 {: id="summary"}
 - **PhD Program**: Medical Informatics PhD Student at UCLA mentored by Dr. Alex Bui. Started Fall of 2019
+  - 2021 UCLA Biodesign Fellow
 - **Degree**: Graduated from UC Davis June 2018 with a B.S. in Biomedical Engineering
 - **Hobbies**: Coffee, Reading, Guitar, Anime, Surfing
 

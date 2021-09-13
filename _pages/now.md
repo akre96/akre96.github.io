@@ -3,10 +3,7 @@ layout: splash
 title: "What I'm Up To Now "
 permalink: /now/
 ---
-## As of July 10th 2021
-
-### The Pandemic:
-I got vaccinated, my family is vaccinated, my friends are vaccinated! Concerned about my extended family in India and had some cases but everyone luckily is healthy now.
+## As of September 12th 2021
 
 ### Books I'm Reading:
 
@@ -19,15 +16,12 @@ You can find past books I've read and my notes on them in my Notion library [her
 #### Medical Informatics Ph.D. Program at UCLA
 I'm a 3rd year Medical Informatics PhD Student at UCLA in [Dr. Alex Bui's](https://www.mii.ucla.edu/people/buia/){:target="_blank"} lab. My research centers on the use of digital health data as taken from smartphones and smartwatches to enable monitoring and prevention of mental health disorder. A key focus point for me is ensuring fair and equitable implementation of algorithms used.
 
-I recently worked on a project called [covidcompare.io](https://www.covidcompare.io){:targe="_blank} with two other students and went live with the website In November. We have finished conducting a usability study and have a manuscript in progress. I am now be working on the the analysis of pilot data from a [collaboration between UCLA and Apple](https://www.engadget.com/apple-ucla-depression-study-225118236.html) to study mental health and depression through mobile health. We are looking to use data from the pilot study of ~150 participants to influence design and analysis plan of future larger studies starting that will begin in the Fall of this year.
+I've mainly been working on my thesis proposal and hope to advance to candidacy by the end of November. Recently submitted a manuscript for our work on [covidcompare.io](https://www.covidcompare.io){:targe="_blank} to JAMIA where it was rejected and redirected to JAMIA Open where we are now waiting on a decision.
 
-A peer in the MI program (Joseph Friedman) at UCLA and I recently published in the [American Journal of Public Health](https://ajph.aphapublications.org/doi/10.2105/AJPH.2021.306256) on work related to assessing the impact of the pandemic with the opioid overdose crisis. We are also collaborating on a follow up of that work related to getting accurate estimates of current overdose mortality in the U.S. using publicly available data sources.
+My research is centered on data from a [collaboration between UCLA and Apple](https://www.engadget.com/apple-ucla-depression-study-225118236.html) to study mental health and depression through mobile health. We've begun to have access to initial data sets. Excited to take the work I've been thinking and writing about and actually apply it on these data.
 
-### Future Plans:  
-#### Entrepreneurship
-My goal in beginning a Ph.D program was to understand computational approaches in medicine in order to start a company in the field. Recently my goals and ambitions have shifted to where I can meaningfully help vulnerable populations. A company may be part of the solution but I'm not wed to the idea. After taking some public health classes, I'm shifting my thinking towards the non-profit space, but not certain yet. I will be actively looking for the resources and mentors at UCLA and elsewhere to help ensure I am on the right track. I recently applied to and was offered a position in [UCLA's Biodesign fellowship](https://biodesign.ucla.edu/){:target="_blank"}! The program aligns very well with my own goals and I'm super excited to start this August.
-
-Please feel free to reach out if you have any information or advice. My personal email is samir.akre@gmail.com.
+#### UCLA Biodesign Fellowship
+At the end of August the [UCLA Biodesign program](https://biodesign.ucla.edu/){:target="_blank"} officially started. We had 1.5 week long bootcamp where we had workshops, socials, and really cool speakers present. I had gotten used to being ready by 9am for remote work over the last 2 years and so was somewhat overwhelmed by having to look professional, in person, at _8 am_. Overall been a great experience so far and I think this aligns well with my career goals.  
 
 ### Other Things In My Life
 #### Meditation
