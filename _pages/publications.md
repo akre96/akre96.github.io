@@ -30,6 +30,11 @@ _Inventors: Andrew Robert Chang, Chung-Che Charles Wang, Daniel Le Ly, Ray Frank
 
 ## Posters
 
+__covidcompare.io – Compare the top COVID-19 mortality forecasts__  
+QCBio Retreat Fall 2021   
+_Samir Akre, Patrick Y. Liu, Joseph R. Friedman, Alex A. T. Bui_  
+[View Poster](/assets/posters/qcbio_retreat_covidcompare.pdf){:target="_blank"}
+
 __StrideSight – Overuse Injury Prediction Wearable Device__  
 Biomedical Engineering Senior Design Project Spring 2018  
 _Samir Akre, Krishna Basude, Angela Tolwani_  
