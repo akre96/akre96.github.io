@@ -23,6 +23,11 @@ p {
   strong {
     color: $light-brown;
   }
+  em {
+    strong {
+      color: $gray;
+    }
+  }
 
 }
 
