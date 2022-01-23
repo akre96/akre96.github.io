@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 ## Publications
 
+__International COVID-19 mortality forecast visualization: covidcompare.io__  
+_Samir Akre, Patrick Y. Liu, Joseph R. Friedman, Alext A. T. Bui_ 2021. __JAMIA Open__ Volume 4, Issue 4, October 2021, ooab113, https://doi.org/10.1093/jamiaopen/ooab113  
+[View Publication](https://academic.oup.com/jamiaopen/article/4/4/ooab113/6485042){:target="_blank"}   
+
 __Deciphering intratumoral heterogeneity using integrated clonal tracking and single-cell transcriptome analyses__  
 _Humberto Contreras-Trujillo, Jiya Eerdeng, Samir Akre, Du Jiang, Jorge Contreras, Basia Gala, Mary C. Vergel-Rodriguez, Yeachan Lee, Aparna Jorapur, Areen Andreasian, Lisa Harton, Charles S. Bramlett, Anna Nogalska, Gang Xiao, Jae-Woong Lee, Lai N. Chan, Markus Müschen, Akil A. Merchant & Rong Lu. 2021. __Nature Communications__, https://doi.org/10.1038/s41467-021-26771_
 [View Publication](https://www.nature.com/articles/s41467-021-26771-1.pdf){:target="_blank"}  
